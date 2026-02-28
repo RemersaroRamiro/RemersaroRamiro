@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Sobre mí  
-Soy estudiante de **Ingeniería en Sistemas** en la **UTN**, actualmente cursando mi tercer año.  
+Soy estudiante de **Ingeniería en Sistemas** en la **UTN**, actualmente cursando mi cuarto año.  
 Apasionado por las **Matemáticas** y la **Tecnología**, con interés en formarme en **Inteligencia Artificial** y **Machine Learning**.  
 
 Desde abril de 2025 trabajo como **RPA Developer en IT4 Consulting S.A.**, donde diseño e implemento soluciones de automatización con **Python** y **Automation Anywhere**.  
